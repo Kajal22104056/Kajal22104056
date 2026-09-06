@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kajal22104056&label=Profile%20views&color=2D5FE0&style=flat" alt="profile views" />
   <a href="https://www.linkedin.com/in/kajal-kumari-5811a5291/"><img src="https://img.shields.io/badge/LinkedIn-Kajal%20Kumari-2D5FE0?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:kajalk.ec.22@nitj.ac.in"><img src="https://img.shields.io/badge/Email-kajalk.ec.22%40nitj.ac.in-2D5FE0?logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:mansinayak234@gmail.com"><img src="https://img.shields.io/badge/Email-mansinayak234%gmail.com-2D5FE0?logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
