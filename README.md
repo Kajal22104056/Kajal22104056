@@ -1,25 +1,65 @@
-[![MasterHead](https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif)](https://github.com/Kajal22104056)
+<h1 align="center">Hi, I'm Kajal Kumari 👋</h1>
+<h3 align="center">Software Development Engineer · B.Tech ECE, NIT Jalandhar</h3>
 
-<h1 align="center">Hi 👋, I'm Kajal Kumari</h1>
-<h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kajal22104056&label=Profile%20views&color=0e75b6&style=flat" alt="kajal22104056" /> </p>
-
-- 📫 How to reach me **mansinayak234@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kajal kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kajal kumari" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kajalkkqzh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kajalkkqzh" height="30" width="40" /></a>
+<p align="center">
+  🚀 Specialist Programmer (L1) @ Infosys (upcoming) &nbsp;|&nbsp;
+  🤖 AI Research Intern @ AndOr Communications &nbsp;|&nbsp;
+  🔬 Undergraduate Researcher, Dept. of ECE, NIT Jalandhar
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kajal22104056&label=Profile%20views&color=2D5FE0&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/kajal-kumari-5811a5291/"><img src="https://img.shields.io/badge/LinkedIn-Kajal%20Kumari-2D5FE0?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:kajalk.ec.22@nitj.ac.in"><img src="https://img.shields.io/badge/Email-kajalk.ec.22%40nitj.ac.in-2D5FE0?logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kajal22104056&show_icons=true&locale=en&layout=compact" alt="kajal22104056" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kajal22104056&show_icons=true&locale=en" alt="kajal22104056" /></p>
+### About me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kajal22104056&" alt="kajal22104056" /></p>
+I'm a final-year Electronics and Communication Engineering student at NIT Jalandhar who builds full-stack products and ML pipelines — from a Next.js e-commerce platform to a fine-tuned LLM reasoning pipeline to a hybrid quantum-classical deep learning model for ECG classification. I like taking a project from a rough CLI prototype all the way to something people can actually open and use.
+
+- 💼 Incoming **Specialist Programmer (L1)** at **Infosys** (campus placement)
+- 🧠 Fine-tuned Qwen 2.5-3B on GSM8K with Chain-of-Thought reasoning during my internship at **AndOr Communications**
+- 🩺 Built **PulseQ**, a hybrid quantum-classical model for 12-lead ECG arrhythmia classification, as an undergraduate researcher
+- 🏆 Top 0.6% (20,000+ teams) in the Amazon ML Hackathon 2025
+
+---
+
+### Featured projects
+
+| Project | What it does | Links |
+|---|---|---|
+| **PulseQ** | Hybrid CNN + BiLSTM + 8-qubit Qiskit model for ECG arrhythmia classification, with SHAP/LIME explainability | [Code](https://github.com/Kajal22104056/PulseQ-pulse-quantum-) · [Live demo](https://kajal22104056.github.io/PulseQ-pulse-quantum-/) |
+| **Online Pharmacy Store** | Full-stack pharmacy platform — migrated a Java/MySQL CLI system to a Next.js + TypeScript + Tailwind CSS web app on Vercel | [Code](https://github.com/Kajal22104056/Online-Pharmacy-Store) · [Live demo](https://online-pharmacy-store-kajal.vercel.app) |
+| **Task Manager CLI** | Zero-dependency Python CLI with priorities, due dates, color-coded sorting, and persistent storage | [Code](https://github.com/Kajal22104056/Command-_line_interface-CLI) · [Live demo](https://kajal22104056.github.io/Command-_line_interface-CLI/) |
+
+---
+
+### Languages & tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,mysql,nextjs,ts,tailwind,react,git,figma,matlab" alt="core stack" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" />
+</p>
+
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kajal22104056&show_icons=true&theme=default&hide_border=true" alt="Kajal's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajal22104056&layout=compact&hide_border=true" alt="Top languages" height="165"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kajal22104056&hide_border=true" alt="streak stats" />
+</p>
+
+---
+
+📫 Reach me at **kajalk.ec.22@nitj.ac.in** or on [LinkedIn](https://www.linkedin.com/in/kajal-kumari-5811a5291/).
