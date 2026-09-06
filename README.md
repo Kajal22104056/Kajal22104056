@@ -17,7 +17,7 @@
 
 ### About me
 
-I'm a final-year Electronics and Communication Engineering student at NIT Jalandhar who builds full-stack products and ML pipelines — from a Next.js e-commerce platform to a fine-tuned LLM reasoning pipeline to a hybrid quantum-classical deep learning model for ECG classification. I like taking a project from a rough CLI prototype all the way to something people can actually open and use.
+Software Development Engineer candidate with strong foundations in Data Structures and Algorithms, OOP, and full-stack development. I build CLI tools, full-stack web apps, and ML/LLM pipelines in Python, Java, and Next.js — from a Next.js e-commerce platform to a fine-tuned LLM reasoning pipeline to a hybrid quantum-classical deep learning model for ECG classification — with a track record of shipping measurable performance gains and top rankings in national coding and ML competitions.
 
 - 💼 Incoming **Specialist Programmer (L1)** at **Infosys** (campus placement)
 - 🧠 Fine-tuned Qwen 2.5-3B on GSM8K with Chain-of-Thought reasoning during my internship at **AndOr Communications**
